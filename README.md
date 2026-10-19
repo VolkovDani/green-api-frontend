@@ -3,3 +3,5 @@
 После этого запускаем vite сервер при помощи `npm run dev`
 
 Для сборки используем `npm run build`, и после сборки можем запустить сервер с уже собранным приложением `npm run preview`
+
+![image](./green-api-frontend.png)
